@@ -1,7 +1,7 @@
 
-![data science](https://i.gifer.com/J5A.gif)
+![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
------------
+------
 
 <h1 align="center">Hi 👋, I'm Omkar Pawar.</h1>
 <h3 align="center">A passionate Data Scientist from India.</h3>
