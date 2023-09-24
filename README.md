@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkarpawar1430" alt="omkarpawar1430" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning.**
+- 🔭 I’m currently working on **Amazing Machine Learning Projects.**
 
-- 🌱 I’m currently learning **Advanced Machine Learning.**
+- 🌱 I’m currently learning **Data Science.**
 
 - 👯 I’m looking to collaborate on **Data Science Topics.**
 
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **pawaromkar1430@gmail.com**
 
-- ⚡ Fun fact **Data Science it the only sexy things for me 😂**
+- ⚡ Fun fact **Why do I love data? Because it can answer questions you didn't even know you had. It's like a treasure hunt with numbers! 🕵️‍♂️🔍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
