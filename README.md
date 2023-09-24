@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **writing code one percent better each time.**
 
-- 🔴 Take a look at some content that I made on YouTube [https://www.youtube.com/@optimisticomkar](https://www.youtube.com/@optimisticomkar)
+- 🔴 Take a look at some content that I made on YouTube [https://www.youtube.com/@datadecides](https://www.youtube.com/@datadecides)
 
 - 💬 Ask me about **Python, Machine Learning, Data Science, Web Scrapping etc**
 
