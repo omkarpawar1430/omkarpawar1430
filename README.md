@@ -3,7 +3,7 @@
 
 ------
 
-<h1 align="center">Hi 👋, I'm Omkar Pawar.</h1>
+<h1 align="center">Hi 👋, [I'm Omkar Pawar](https://linktr.ee/omkarpawar1430).</h1>
 <h3 align="center">A passionate Data Scientist from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarpawar1430&label=Profile%20views&color=0e75b6&style=flat" alt="omkarpawar1430" /> </p>
